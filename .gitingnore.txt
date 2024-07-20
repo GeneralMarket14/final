@@ -1,0 +1,3 @@
+# Ignore firebase configuration files
+config/firebase.json
+config/firebase.php
